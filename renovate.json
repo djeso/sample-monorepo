@@ -24,7 +24,6 @@
   "labels": ["dependencies"],
   "postUpdateOptions": ["pnpmDedupe"],
   "prConcurrentLimit": 20,
-  "prHourlyLimit": 0,
   "rangeStrategy": "bump",
   "timezone": "America/Toronto",
   "schedule": ["after 9am and before 5pm every weekday"],
