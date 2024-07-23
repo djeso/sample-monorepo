@@ -628,7 +628,7 @@ devDependencies:
     specifier: ^3.0.1
     version: 3.0.6
   '@types/convert-excel-to-json':
-    specifier: ^1.7.1
+    specifier: ^1.7.4
     version: 1.7.4
   '@types/cookie':
     specifier: ^0.5.1
