@@ -631,7 +631,7 @@ devDependencies:
     specifier: ^1.7.1
     version: 1.7.4
   '@types/cookie':
-    specifier: ^0.5.1
+    specifier: ^0.5.4
     version: 0.5.4
   '@types/csv-parse':
     specifier: ^1.2.2
