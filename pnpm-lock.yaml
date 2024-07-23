@@ -640,7 +640,7 @@ devDependencies:
     specifier: ^3.1.0
     version: 3.1.0
   '@types/d3-hierarchy':
-    specifier: ^2.0.1
+    specifier: ^2.0.5
     version: 2.0.5
   '@types/deep-freeze':
     specifier: ^0.1.2
