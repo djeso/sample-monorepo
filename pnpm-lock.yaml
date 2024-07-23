@@ -643,7 +643,7 @@ devDependencies:
     specifier: ^2.0.1
     version: 2.0.5
   '@types/deep-freeze':
-    specifier: ^0.1.2
+    specifier: ^0.1.5
     version: 0.1.5
   '@types/file-saver':
     specifier: ^2.0.5
