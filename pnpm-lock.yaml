@@ -580,8 +580,8 @@ devDependencies:
     specifier: ^5.1.5
     version: 5.1.5
   '@rollup/plugin-graphql':
-    specifier: ^2.0.3
-    version: 2.0.4(graphql@16.8.1)(rollup@2.79.1)
+    specifier: ^2.0.5
+    version: 2.0.5(graphql@16.8.1)(rollup@2.79.1)
   '@sentry/types':
     specifier: 7.73.0
     version: 7.73.0
@@ -8452,8 +8452,8 @@ packages:
       rollup: 2.79.1
     dev: true
 
-  /@rollup/plugin-graphql@2.0.4(graphql@16.8.1)(rollup@2.79.1):
-    resolution: {integrity: sha512-TfaqbbK71VHodCDCoRbPnv2+Tsnlvad2OsGEviURHFl+ZBUyf5wfXgXc9RqZ+xKxSl87Z3YbPhD0z6eWYjuByw==}
+  /@rollup/plugin-graphql@2.0.5(graphql@16.8.1)(rollup@2.79.1):
+    resolution: {integrity: sha512-NMx9uVIheYMOQHV9Aann0sk/2+henT8T5JUbHneOvbD3iUrVUC7AaZ1B1ELJ/1vhqUe2OQIkRtGHzOQwBLoCvg==}
     engines: {node: '>=14.0.0'}
     peerDependencies:
       graphql: ^16.8.1
